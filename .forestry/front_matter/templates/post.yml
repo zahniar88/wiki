@@ -27,5 +27,6 @@ pages:
 - docs/_posts/install-phpmyadmin-20.04.md
 - docs/_posts/install-powerlevel10k-oh-my-zsh-ubuntu-20.04.md
 - docs/_posts/plugin-nvm-zsh.md
+- docs/_posts/ssl-local-di-linux.md
 - docs/_posts/theme-and-icon-ubuntu-20.04.md
 - docs/_posts/zsh-syntax-highlighter.md
