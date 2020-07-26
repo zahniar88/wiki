@@ -20,3 +20,4 @@ fields:
   label: summary
 pages:
 - docs/_posts/install-oh-my-zsh-ubuntu-20.04.md
+- docs/_posts/install-powerlevel10k-oh-my-zsh-ubuntu-20.04.md
