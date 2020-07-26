@@ -64,10 +64,10 @@ module.exports = {
       copyright: [
         {
           text: 'Licensed MIT.',
-          link: 'https://bootstrapstarter.com/license/',
+          link: '#',
         },
         {
-          text: 'Copyright &copy; 2020 by Zahniar Adirahman',
+          text: 'Copyright 2020 by Zahniar Adirahman',
           link: '#',
         },
       ],
