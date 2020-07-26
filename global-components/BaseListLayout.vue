@@ -13,11 +13,6 @@ itemtype="https://schema.org/BlogPosting"
 >
   <meta itemprop="mainEntityOfPage" :content="page.path" />
   <div class="entry card h-100">
-    <div class="card-header-image">
-      <NavLink :link="page.path">
-      <img :src="page.frontmatter.featuredimg"/>
-      </NavLink>
-    </div>
 
     <div class="card-inside">
       <div class="card-subheading">
