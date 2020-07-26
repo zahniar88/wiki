@@ -21,6 +21,7 @@ fields:
 pages:
 - docs/_posts/apache2-di-ubuntu-20.04.md
 - docs/_posts/gnome-tweak-tool-ubuntu-20.04.md
+- docs/_posts/install-git-di-ubuntu-20.04.md
 - docs/_posts/install-mysql-di-ubuntu-20.04.md
 - docs/_posts/install-oh-my-zsh-ubuntu-20.04.md
 - docs/_posts/install-php-di-ubuntu-20.04.md
