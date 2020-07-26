@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'NikiPedia',
   base: '/',
   dest: 'public',
-  description: 'Mediumish theme with VuePress and Forestry',
+  description: 'Litle Creator',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
+      name: 'Zahniar Adirahman',
       avatar: '/assets/img/sal.jpg',
       link: 'https://wowthemes.net/donate',
       linktext: 'Follow',
@@ -73,8 +73,8 @@ module.exports = {
           link: 'https://bootstrapstarter.com/license/',
         },
         {
-          text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
+          text: 'Copyright &copy; 2020 by Zahniar Adirahman',
+          link: '#',
         },
       ],
     },
