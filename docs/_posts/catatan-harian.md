@@ -4,8 +4,8 @@ tags:
 title: Catatan Harian
 date: 2020-07-07 17:00:00 +0000
 author: Zahniar Adirahman
-featuredimg: ''
-summary: ''
+featuredimg: "/assets/img/screenshot.jpg"
+summary: Belajar php dasar
 
 ---
     <?php
