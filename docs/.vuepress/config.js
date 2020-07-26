@@ -26,7 +26,7 @@ module.exports = {
         },
         {
           type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+          link: 'https://github.com/zahniar88',
         },
         {
           type: 'gitlab',
