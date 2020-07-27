@@ -6,7 +6,7 @@
       itemtype="https://schema.org/BlogPosting"
     >
       <div class="row justify-content-center">
-        <div class="col-md-8">
+        <div class="col-md-8 mb-4">
           <header>
             <span class="text-muted"
               ><PostMeta :date="$frontmatter.date"
@@ -18,6 +18,7 @@
 
             <Avatar />
           </header>
+          <hr />
         </div>
       </div>
 
@@ -30,8 +31,9 @@
       </div>
     </article>
 
-    <div class="row justify-content-center">
+    <div class="row justify-content-center mt-5">
       <div class="col-md-9">
+        <hr />
         <!-- <Newsletter v-if="$service.email.enabled" /> -->
         <Comment />
       </div>
