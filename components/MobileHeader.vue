@@ -75,7 +75,10 @@ export default {
   list-style none
 
   a
-    text-decoration none
+    text-decoration none !important
+
+    &:hover
+      color #075544
 
 .menu-divider
   margin 0

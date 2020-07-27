@@ -31,9 +31,11 @@ export default {
   transition all 0.5s
 
   &:hover
-    color $accentColor !important
-    border 1px solid $accentColor
-    box-shadow 0 0 5px $accentColor
+    // color $accentColor !important
+    color white !important
+    // border 1px solid $accentColor
+    // box-shadow 0 0 5px $accentColor
+    background $darkTextColor
 
 @media screen and (max-width: 768px)
   .blog-tag
