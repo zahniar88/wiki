@@ -8,11 +8,11 @@
           NikiPedia &trade;
         </div>
         <div class="col text-right">
-          <ul v-if="contact" class="list-unstyled">
+          <ul v-if="contact" class="list-unstyled d-flex justify-content-end">
             <li
               v-for="item in contact"
               :key="item.iconComponent"
-              class="contact-item"
+              class="contact-item px-2"
             >
               <NavLink :link="item.link">
                 <component :is="item.iconComponent"></component>
@@ -91,6 +91,12 @@ export default {
       switch (contactType) {
         case 'github':
           return 'GithubIcon'
+        case 'gitlab':
+          return 'GitlabIcon'
+        case 'instagram':
+          return 'InstagramIcon'
+        case 'facebook':
+          return 'FacebookIcon'
       }
     },
   },

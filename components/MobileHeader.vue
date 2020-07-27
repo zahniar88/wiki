@@ -3,7 +3,7 @@
     <div class="mobile-header-bar">
       <div class="mobile-header-title">
         <NavLink link="/" class="mobile-home-link navbar-brand">
-          <span class="text-success">{NP}</span> NikiPedia
+          <span class="text-success">{NP}</span> NikiPedia&reg;
         </NavLink>
         <component
           :is="isOpen ? 'XIcon' : 'MenuIcon'"

@@ -5,7 +5,7 @@
         <nav class="navbar navbar-expand-md navbar-light bg-white fixed-top">
           <div class="container">
             <NavLink link="/" class="navbar-brand">
-              <span class="text-success">{NP}</span> NikiPedia
+              <span class="text-success">{NP}</span> NikiPedia&reg;
             </NavLink>
             <button
               class="navbar-toggler"

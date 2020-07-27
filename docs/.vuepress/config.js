@@ -22,7 +22,7 @@ module.exports = {
         },
         {
           type: 'facebook',
-          link: '#',
+          link: 'https://www.facebook.com/zahniar.adirahman.5/',
         },
         {
           type: 'github',
@@ -30,11 +30,11 @@ module.exports = {
         },
         {
           type: 'gitlab',
-          link: '#',
+          link: 'https://gitlab.com/zahniar88',
         },
         {
           type: 'instagram',
-          link: '#',
+          link: 'https://www.instagram.com/ziqo.space/',
         },
         {
           type: 'linkedin',
@@ -74,7 +74,7 @@ module.exports = {
     },
 
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: 'https://nikipedia.space/rss.xml'
     },
     comment: {
       service: 'disqus',
@@ -84,7 +84,7 @@ module.exports = {
       endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base: 'https://nikipedia.space/rss.xml',
     },
     smoothScroll: true
   },
