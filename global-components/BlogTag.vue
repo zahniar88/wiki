@@ -28,14 +28,15 @@ export default {
   color $darkTextColor
   border 1px solid $darkBorderColor
   text-decoration none
-  transition all 0.5s
+  transition all 0.3s
 
   &:hover
     // color $accentColor !important
     color white !important
     // border 1px solid $accentColor
     // box-shadow 0 0 5px $accentColor
-    background $darkTextColor
+    border-color #20c997
+    background #20c997
 
 @media screen and (max-width: 768px)
   .blog-tag
