@@ -172,7 +172,7 @@ export default {
   margin-top:-10px;
 .home-saerch
   width 100%;
-  z-index 100000;
+  z-index 1;
 .home-saerch > input
   width 100% !important;
 @media screen and (max-width: 768px)
@@ -180,5 +180,5 @@ export default {
     left 0;
 @media screen and (max-width: 959px)
   .home-saerch > input
-    border-color $borderColor;
+    border-color #e1e1e1;
 </style>
