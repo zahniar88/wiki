@@ -2,9 +2,10 @@
 tags:
 - server
 title: Apache2 di ubuntu 20.04
-date: 2020-07-26 17:00:00 +0000
+date: 2020-07-26T17:00:00.000+00:00
 author: Zahniar Adirahman
 summary: Menginstall apache2 di ubuntu 20.04
+cover: "/assets/img/apache2.JPG"
 
 ---
 ## Install Apache
