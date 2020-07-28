@@ -3,8 +3,8 @@ tags:
 - server
 - apache2
 title: Cara mengaktifkan mod rewrite apache2 ubuntu
-date: 2020-07-27 17:00:00 +0000
-author: Zahniar Adirahman
+date: 2020-07-27T17:00:00.000+00:00
+author: Niki Pedia
 cover: "/assets/img/apache2.JPG"
 summary: Bagaimana cara mengaktifkan mod_rewrite pada apache2 pada ubuntu
 
