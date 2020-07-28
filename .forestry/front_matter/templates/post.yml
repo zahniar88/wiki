@@ -5,9 +5,13 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
+    max: 255
 - type: datetime
   name: date
   label: date
+  default: now
 - name: author
   type: select
   default: Niki Pedia
@@ -34,6 +38,8 @@ fields:
 - type: text
   name: summary
   label: summary
+  config:
+    required: true
 pages:
 - docs/_posts/apa-itu-web-hosting-pengertian-web-hosting-dan-jenis-jenisnya.md
 - docs/_posts/apache2-di-ubuntu-20.04.md
