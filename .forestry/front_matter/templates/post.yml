@@ -26,6 +26,7 @@ fields:
 pages:
 - docs/_posts/apa-itu-web-hosting-pengertian-web-hosting-dan-jenis-jenisnya.md
 - docs/_posts/apache2-di-ubuntu-20.04.md
+- docs/_posts/cara-mengaktifkan-mod-rewrite-apache2-ubuntu.md
 - docs/_posts/cara-mengganti-port-ssh.md
 - docs/_posts/gnome-tweak-tool-ubuntu-20.04.md
 - docs/_posts/install-git-di-ubuntu-20.04.md
