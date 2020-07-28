@@ -8,8 +8,19 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: author
+- name: author
+  type: select
+  default: Niki Pedia
+  config:
+    required: true
+    options:
+    - Niki Pedia
+    - Zahniar Adirahman
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: author
 - name: tags
   type: tag_list
