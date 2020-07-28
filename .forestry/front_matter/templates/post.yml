@@ -12,6 +12,9 @@ fields:
   name: date
   label: date
   default: now
+  config:
+    required: true
+    export_format: DD MMMM YYYY, HH:mm
 - name: author
   type: select
   default: Niki Pedia
