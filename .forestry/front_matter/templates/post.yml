@@ -14,7 +14,7 @@ fields:
   default: now
   config:
     required: true
-    export_format: DD MMMM YYYY, HH:mm
+    export_format: ddd, DD MMMM YYYY
 - name: author
   type: select
   default: Niki Pedia
