@@ -20,25 +20,34 @@ Tahapanan adalah sebagai berikut:
 
 Debian/Ubuntu:
 
-    sudo apt-get install nano
+```bash
+sudo apt-get install nano
+```
 
 ###### 2. Buka file konfigurasi SSH dengan menggunakan NANO
 
-    sudo nano /etc/ssh/sshd_config
+```bash
+sudo nano /etc/ssh/sshd_config
+```
 
 ###### 3. Setelah masuk kedalam file konfigurasi SSHD, cari port 22 lalu ubah angka 22 menjadi angka yang anda sukai dan mudah di ingat oleh anda. Misal kita ubah menjadi:
 
-    Port 1734
-
+```
+Port 1734
+```
 ubah port sesuai yang di inginkan
 
-jika masih memiliki tanda #
+jika masih memiliki tanda `#`
 
-    #Port 21
+```
+#Port 21
+```
 
 ubah menjadi
 
-    Port 1734
+```
+Port 1734
+```
 
 ###### 4. Simpan konfigurasi SSHD yan baru dengan menekan CTRL + O
 
@@ -48,12 +57,16 @@ ubah menjadi
 
 Debian/Ubuntu:
 
-    sudo systemctl restart ssh
+```bash
+sudo systemctl restart ssh
+```
 
 Setelah itu, maka ketika anda login ke server melalui SSH, anda harus memasukan port yang telah anda seting
 
 contoh:
 
-    ssh username@host -p 1734
+```bash
+ssh username@host -p 1734
+```
 
 \*Isi port sesuai yang di inginkan
