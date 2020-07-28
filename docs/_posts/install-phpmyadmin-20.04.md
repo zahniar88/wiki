@@ -2,10 +2,11 @@
 tags:
 - server
 - lamp
-title: Install PhpMyadmin 20.04
-date: 2020-07-26 17:00:00 +0000
+title: Install PhpMyadmin di ubuntu 20.04
+date: 2020-07-26T17:00:00.000+00:00
 author: Zahniar Adirahman
 summary: Menginstall phpmyadmin di ubuntu 20.04
+cover: ''
 
 ---
 ## Installing phpMyAdmin
