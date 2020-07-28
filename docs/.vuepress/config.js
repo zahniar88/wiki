@@ -18,7 +18,7 @@ module.exports = {
       },
       {
       name: 'Niki Pedia',
-      avatar: '/assets/img/20190916_224044.jpg',
+      avatar: '/assets/img/niki.png',
       link: 'https://www.instagram.com/ziqo.space/',
       linktext: 'Visit',
       }
