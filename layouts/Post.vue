@@ -24,6 +24,10 @@
 
       <div class="row justify-content-center">
         <div class="col-md-8">
+          <div v-if="$frontmatter.cover">
+            <img class="featuredimg" :src="$frontmatter.cover" />
+          </div>
+
           <Content itemprop="articleBody" />
 
           <PostMeta :tags="$frontmatter.tags" />

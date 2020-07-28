@@ -5,7 +5,7 @@ tags:
 title: Install Oh My Zsh ubuntu 20.04
 date: 2020-07-26 16:29:00 +0000
 author: Zahniar Adirahman
-featuredimg: "/assets/img/screenshot-from-2020-07-24-18-28-58.png"
+cover: "/assets/img/screenshot-from-2020-07-24-18-28-58.png"
 summary: Menginstall custom terminal zsh di linux ubuntu 20.04
 
 ---
