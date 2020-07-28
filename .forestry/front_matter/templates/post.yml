@@ -15,11 +15,11 @@ fields:
   type: tag_list
   default: []
   label: tags
-- name: featured_img
+- name: cover
   type: file
   config:
     maxSize: 1
-  label: featured_img
+  label: cover
 - type: text
   name: summary
   label: summary
