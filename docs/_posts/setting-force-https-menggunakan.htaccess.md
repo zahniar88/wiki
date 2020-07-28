@@ -4,9 +4,10 @@ tags:
 - server
 - conf
 title: Setting Force HTTPS Menggunakan .htaccess
-date: 2020-07-26 17:00:00 +0000
+date: 2020-07-26T17:00:00.000+00:00
 author: Zahniar Adirahman
 summary: Cara setting force http ke https menggunakan .htaccess
+cover: "/assets/img/apache2.JPG"
 
 ---
 Apabila website Anda sudah terpasang SSL dan ketika diakses belum mengarah ke [_https://namawebsite.com_](https://namawebsite.com "https://namawebsite.com") . Anda dapat memakai cara ini, agar ketika mengakses _namawebsite.com_ otomatis mengarah ke [_https://namawebsite.com_](https://namawebsite.com "https://namawebsite.com") .
