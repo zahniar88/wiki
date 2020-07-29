@@ -9,6 +9,12 @@ summary: Menginstall phpmyadmin di ubuntu 20.04
 cover: ''
 
 ---
+## Optional Repository
+```bash
+sudo add-apt-repository ppa:phpmyadmin/ppa
+sudo apt-get update
+```
+
 ## Installing phpMyAdmin
 
 ```bash
