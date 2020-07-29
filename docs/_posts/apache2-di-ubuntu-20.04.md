@@ -8,6 +8,12 @@ summary: Menginstall apache2 di ubuntu 20.04
 cover: "/assets/img/apache2.JPG"
 
 ---
+## Optional Repository
+```bash
+sudo add-apt-repository ppa:ondrej/apache2
+sudo apt-get update
+```
+
 ## Install Apache
 ```bash
 sudo apt update
