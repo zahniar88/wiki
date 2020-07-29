@@ -2,6 +2,13 @@ module.exports = {
   title: 'NikiPedia',
   base: '/',
   dest: 'public',
+  plugins: [
+    [
+      'social-share', {
+        networks: ['facebook', 'twitter', 'whatsapp', 'email']
+      }
+    ]
+  ],
   head: [
     ['link', {rel: 'shortcut icon', href: '/favicon.ico', type: 'image/x-icon'}],
   ],
