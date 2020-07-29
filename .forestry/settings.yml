@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: super
+admin_path: docs/.vuepress/public/super
 webhook_url: 
 sections:
 - type: directory
