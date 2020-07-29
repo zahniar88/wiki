@@ -4,7 +4,7 @@ tags:
 - server
 - secure
 title: Cara mengganti port ssh
-date: 2020-07-27 17:00:00 +0000
+date: 2020-07-27T17:00:00.000+00:00
 author: Zahniar Adirahman
 cover: "/assets/img/1_xxv0o3qlmxmpy3l8z02jgg.png"
 summary: cara merubah port ssh server ubuntu 20.04
@@ -32,22 +32,17 @@ sudo nano /etc/ssh/sshd_config
 
 ###### 3. Setelah masuk kedalam file konfigurasi SSHD, cari port 22 lalu ubah angka 22 menjadi angka yang anda sukai dan mudah di ingat oleh anda. Misal kita ubah menjadi:
 
-```
-Port 1734
-```
+    Port 1734
+
 ubah port sesuai yang di inginkan
 
 jika masih memiliki tanda `#`
 
-```
-#Port 21
-```
+    #Port 22
 
 ubah menjadi
 
-```
-Port 1734
-```
+    Port 1734
 
 ###### 4. Simpan konfigurasi SSHD yan baru dengan menekan CTRL + O
 
