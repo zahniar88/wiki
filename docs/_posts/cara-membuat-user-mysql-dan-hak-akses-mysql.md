@@ -36,13 +36,13 @@ Ada beberapa jenis hak istimewa yang dapat diberikan ke akun pengguna. Anda dapa
 
 Hak istimewa yang paling umum digunakan adalah:
 
-* ALL PRIVILEGES – memberikan semua hak istimewa ke akun pengguna.
-* CREATE – akun pengguna diizinkan untuk membuat database dan tabel.
-* DROP – akun pengguna diizinkan untuk menghapus database dan tabel.
-* DELETE – akun pengguna diizinkan untuk menghapus baris dari tabel tertentu.
-* INSERT – akun pengguna diizinkan untuk memasukkan baris ke tabel tertentu.
-* SELECT – akun pengguna diizinkan untuk membaca database.
-* UPDATE – akun pengguna diizinkan untuk memperbarui baris tabel.
+* **ALL PRIVILEGES** – memberikan semua hak istimewa ke akun pengguna.
+* **CREATE** – akun pengguna diizinkan untuk membuat database dan tabel.
+* **DROP** – akun pengguna diizinkan untuk menghapus database dan tabel.
+* **DELETE** – akun pengguna diizinkan untuk menghapus baris dari tabel tertentu.
+* **INSERT** – akun pengguna diizinkan untuk memasukkan baris ke tabel tertentu.
+* **SELECT** – akun pengguna diizinkan untuk membaca database.
+* **UPDATE** – akun pengguna diizinkan untuk memperbarui baris tabel.
 
 Untuk memberikan hak khusus ke akun pengguna, Anda dapat menggunakan sintaks berikut:
 
