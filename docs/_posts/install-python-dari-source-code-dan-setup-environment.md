@@ -68,8 +68,6 @@ python --version
 Python menyediakan paket yang dikenal sebagai venv (lingkungan virtual), yang membantu Anda mengisolasi direktori program atau paket dari yang lain.
 Untuk membuat lingkungan virtual, masukkan berikut ini di terminal Python (dalam contoh ini, anggap versi Python yang Anda instal ada di seri 3.8 ):
 
-python3.8 -m venv example
-
 ```bash
 python3.8 -m venv example
 ```
