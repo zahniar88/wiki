@@ -13,6 +13,8 @@ summary: Cara melakukan git pull project github atau gitlab menggunakan git
 ## Langkah Pull Menggunakan Git Bash
 
 * Langkah pertama adalah masuk ke direktori atau folder project melalui windows explore atau files (Linux)
+* Pada windows biasanya lokasi direktori ada di `C:\xampp\htdocs` 
+* Pada linux jika menggunakan lamp stack `/var/www/html` atau `/var/www` atau sesuaikan dengan lokasi direktori yang telah disetting untuk projectnya
 * Jika sudah terinstall git pada pc kalian
 
   > * Untuk windows bisa `klik kanan > git bash here`
