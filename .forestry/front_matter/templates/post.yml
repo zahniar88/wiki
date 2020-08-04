@@ -49,6 +49,7 @@ pages:
 - docs/_posts/cara-membuat-user-mysql-dan-hak-akses-mysql.md
 - docs/_posts/cara-mengaktifkan-mod-rewrite-apache2-ubuntu.md
 - docs/_posts/cara-mengganti-port-ssh.md
+- docs/_posts/cara-pull-project-dari-repository-gitlab-atau-github.md
 - docs/_posts/gnome-tweak-tool-ubuntu-20.04.md
 - docs/_posts/install-git-di-ubuntu-20.04.md
 - docs/_posts/install-mysql-di-ubuntu-20.04.md
