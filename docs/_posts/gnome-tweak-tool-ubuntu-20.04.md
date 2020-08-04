@@ -35,4 +35,4 @@ sudo apt install gnome-tweak-tool
 * [Hide Activities Button](https://extensions.gnome.org/extension/1128/hide-activities-button/)
 * [Lock Keys](https://extensions.gnome.org/extension/36/lock-keys/)
 * [Dash To Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/ "Dash To Panel")
-* [Dash To Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/ "https://extensions.gnome.org/extension/1160/dash-to-panel/")
+* [User Theme](https://extensions.gnome.org/extension/19/user-themes/ "https://extensions.gnome.org/extension/19/user-themes/") (For Enable Shell Theme)
