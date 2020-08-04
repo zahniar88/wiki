@@ -37,7 +37,7 @@ kode ini digunakan untuk mengatur waktu delay selama "angka", Jadi bila ingin me
 </marquee>
 ```
 
-## kode bgcolor="warna" 
+## kode bgcolor="warna"
 
 kode ini digunakan untuk mengatur warna background tulisan berjalan. "warna" dapat diganti menggunakan bahasa Inggris yang menyatakan jenis warna
 
@@ -90,6 +90,7 @@ kode ini digunakan untuk menampilkan suatu pesan jika kursor mouse didekatkan pa
 ## kode behavior="scroll/slide/alternate"
 
 kode ini digunakan untuk mengatur jenis gerakan, Yaitu :
+
 * Scroll bila ingin text berjalan terus ke salah satu sisi
 * Slide  bila ingin text berjalan tersendat-sendat
 * Alternate  bila ingin text berjalan seperti memantul
@@ -107,3 +108,5 @@ kode ini digunakan untuk mengatur jenis gerakan, Yaitu :
 	Selamat datang di Nikipedia
 </marquee>
 ```
+
+Sumber: [http://www.caramadia.com/2015/08/cara-membuat-tulisan-berjalan-marquee.html](http://www.caramadia.com/2015/08/cara-membuat-tulisan-berjalan-marquee.html "http://www.caramadia.com/2015/08/cara-membuat-tulisan-berjalan-marquee.html")
