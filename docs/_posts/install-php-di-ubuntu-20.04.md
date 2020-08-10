@@ -3,9 +3,10 @@ tags:
 - server
 - lamp
 title: Install php di ubuntu 20.04
-date: 2020-07-26 17:00:00 +0000
+date: 2020-07-26T17:00:00.000+00:00
 author: Zahniar Adirahman
 summary: Menginstall php dan multiple php di ubuntu 20.04
+cover: ''
 
 ---
 ## Optional Install
@@ -28,13 +29,14 @@ sudo apt install php7.4
 
 ```bash
 sudo apt-cache search php7.4
-sudo apt install php7.4-bcmath php7.4-mbstring php7.4-zip php7.4-mysql php7.4-sqlite3 php7.4-xml php7.4-json php7.4-xmlrpc php7.4-cgi php.4-curl php7.4-xsl php7.4-bz2 php7.4-gd
+sudo apt install php7.4-{bcmath,bz2,cgi,cli,common,curl,dba,dev,enchant,gd,gmp,imap,interbase,intl,json,ldap,mbstring,mysql,odbc,opcache,pgsql,phpdbg,pspell,readline,recode,snmp,soap,sqlite3,sybase,tidy,xml,xmlrpc,xsl,zip}
+
 ```
 
 
 ## Switch between php version
 ```bash
-update-alternatives --config php
+sudo update-alternatives --config php
 ```
 
 ## Apache2 disable mod php
